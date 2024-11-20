@@ -16,6 +16,7 @@
     gap: 25%;
     background-color: green;
     border-color: rgb(11, 174, 238);
+    border-style: solid;
     border-width: 10px;
     padding: 0%;
 }
@@ -32,13 +33,13 @@
     .header-content {
         gap: 5%;
     }
-    
+
     .header-content h1 {
         font-size: 20px;
     }
 
     .dropbtn {
-        background-color: #04AA6D;
+        background-color: rgb(11, 174, 238);
         color: white;
         padding: 16px;
         font-size: 16px;
